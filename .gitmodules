@@ -2,3 +2,10 @@
 	path = frontend/superyou
 	url = https://github.com/Sequis-Digital-Channel/superyou
 	branch = develop
+[submodule "frontend/super-cocoon"]
+	path = frontend/super-cocoon
+	url = https://github.com/Sequis-Digital-Channel/super-cocoon
+	branch = develop
+[submodule "frontend/superyou-frontend"]
+	path = frontend/superyou-frontend
+	url = https://github.com/Sequis-Digital-Channel/superyou-frontend
