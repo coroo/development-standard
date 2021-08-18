@@ -9,3 +9,6 @@
 [submodule "frontend/superyou-frontend"]
 	path = frontend/superyou-frontend
 	url = https://github.com/Sequis-Digital-Channel/superyou-frontend
+[submodule "backend/superyou-api"]
+	path = backend/superyou-api
+	url = https://github.com/Sequis-Digital-Channel/superyou-api
