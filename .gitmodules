@@ -1,3 +1,4 @@
 [submodule "frontend/superyou"]
 	path = frontend/superyou
 	url = https://github.com/Sequis-Digital-Channel/superyou
+	branch = develop
